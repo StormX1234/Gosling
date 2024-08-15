@@ -8004,9 +8004,15 @@ h1,h2,h3,.size1-text{
   }
 }
 @media (max-width: 356px) {
-  .heading-2{
+  .container-2 .heading-2{
       width: 100%;
       text-align: center;
+
+  }
+  .box{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
   }
   .container-2 .heading-2 h3{
       font-size: 1em;
